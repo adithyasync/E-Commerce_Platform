@@ -2,9 +2,15 @@
 A React-Router based E-Commerce Platform
 
 # User Credentials: 
-  username: rahul
+  PrimeUser:
+    
+    username: rahul
+    password: rahul@2021
+
+  Non-Prime User:
   
-  password: rahul@2021
+    username: Raju
+    Password: Raju@2021
 
  Website Link: https://buyzaar.ccbp.tech
 
